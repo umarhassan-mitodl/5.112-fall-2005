@@ -4,8 +4,6 @@ description: This resource provides information about
 file: /courses/5-112-principles-of-chemical-science-fall-2005/1bca23c9aaf55d44958867b4e59c33fc_lecture21.pdf
 file_size: 83859
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

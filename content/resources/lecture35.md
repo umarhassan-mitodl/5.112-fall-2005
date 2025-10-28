@@ -5,8 +5,6 @@ description: This resource provides information about Nature?s Ligands, Heme, Po
 file: /courses/5-112-principles-of-chemical-science-fall-2005/9d5e3c3a9f278ed1cffcea06a6cda240_lecture35.pdf
 file_size: 84514
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This resource provides information about properties of molecules a
 file: /courses/5-112-principles-of-chemical-science-fall-2005/fe6c618dda35bf37a464a4b0f64578d5_lecture19.pdf
 file_size: 96680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource provides information about MO theory for octahedral c
 file: /courses/5-112-principles-of-chemical-science-fall-2005/ce215b963d712ccebf2a840c42be9283_lecture32.pdf
 file_size: 94689
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource provides information about people in history, scannin
 file: /courses/5-112-principles-of-chemical-science-fall-2005/dc67e82d72cb38310d3dcc2e8782abcd_lecture1.pdf
 file_size: 16544
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

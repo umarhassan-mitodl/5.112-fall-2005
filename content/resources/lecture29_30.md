@@ -5,8 +5,6 @@ description: This resource provides information about coordination chemistry, is
 file: /courses/5-112-principles-of-chemical-science-fall-2005/ce1877e66ec1f46126b2746129230090_lecture29_30.pdf
 file_size: 87453
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

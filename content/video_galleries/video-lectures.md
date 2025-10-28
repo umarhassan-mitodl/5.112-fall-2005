@@ -1,8 +1,6 @@
 ---
 content_type: video_gallery
 description: This section contains video files associated to lectures.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

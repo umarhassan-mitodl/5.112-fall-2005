@@ -5,8 +5,6 @@ description: This resource provides information about ideal gas law, experimenta
 file: /courses/5-112-principles-of-chemical-science-fall-2005/6ac4b3355476f1603bc957dad4447e2d_lecture13.pdf
 file_size: 16602
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource provides information about Photoelectric Effect, and 
 file: /courses/5-112-principles-of-chemical-science-fall-2005/40024b46a6f62c5d4e2802a3359c0e6e_lecture4.pdf
 file_size: 93190
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

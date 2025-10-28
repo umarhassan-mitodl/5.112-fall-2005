@@ -5,8 +5,6 @@ description: This resource provides information about requirements for the degre
 file: /courses/5-112-principles-of-chemical-science-fall-2005/1491b09e10344049efed7fad720f3100_1_7_from_l36.pdf
 file_size: 226691
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

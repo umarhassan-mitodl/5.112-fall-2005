@@ -5,8 +5,6 @@ description: This resource provides information about Lewis and Bronsted acid-ba
 file: /courses/5-112-principles-of-chemical-science-fall-2005/56aceab1cae32c39bb3d0455e6c6fc27_lecture20.pdf
 file_size: 85692
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

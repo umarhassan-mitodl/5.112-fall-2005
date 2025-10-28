@@ -5,8 +5,6 @@ description: This resource provides information about P orbitals, wavefunctions 
 file: /courses/5-112-principles-of-chemical-science-fall-2005/fa02a08e40cfaa563edeb8152c51eb1d_lecture8.pdf
 file_size: 19078
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

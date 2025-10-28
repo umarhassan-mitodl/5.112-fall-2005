@@ -4,8 +4,6 @@ description: This resource provides information about useful external links.
 file: /courses/5-112-principles-of-chemical-science-fall-2005/1586cd0e0b17a298f4ef8f682bfefa02_15_froml36.pdf
 file_size: 44543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource provides information about Hydrogen atom wavefunction
 file: /courses/5-112-principles-of-chemical-science-fall-2005/4547b4691c66641fba2b8d64904f49ff_lecture7.pdf
 file_size: 24027
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

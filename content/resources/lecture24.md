@@ -5,8 +5,6 @@ description: This resource provides information about electronic structure theor
 file: /courses/5-112-principles-of-chemical-science-fall-2005/9794feaf69408bd5255c93211ad6e825_lecture24.pdf
 file_size: 90842
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

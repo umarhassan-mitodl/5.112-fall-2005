@@ -5,8 +5,6 @@ description: This resource provides information about shapes of wavefuntions, an
 file: /courses/5-112-principles-of-chemical-science-fall-2005/30c42ec61b3cb1c48308f8bd0c0bde5c_lecture11.pdf
 file_size: 12950
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

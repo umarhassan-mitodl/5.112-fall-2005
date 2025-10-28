@@ -5,8 +5,6 @@ description: This resource provides information about rates for water exchange, 
 file: /courses/5-112-principles-of-chemical-science-fall-2005/b372c37dc73da07bc6f1c68f839328b0_lecture33.pdf
 file_size: 88269
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

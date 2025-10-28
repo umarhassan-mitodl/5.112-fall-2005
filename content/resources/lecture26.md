@@ -6,8 +6,6 @@ description: This resource provides information about valence bond theory vs. mo
 file: /courses/5-112-principles-of-chemical-science-fall-2005/455e675d57f25d1e4cd19c1e768b017d_lecture26.pdf
 file_size: 87903
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: ''
 file: /courses/5-112-principles-of-chemical-science-fall-2005/3952c3df8da75cb2b3d9e9981dfc1276_hG8KdheMUeo.vtt
 file_size: 48226
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

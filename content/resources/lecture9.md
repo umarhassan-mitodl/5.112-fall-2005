@@ -5,8 +5,6 @@ description: This resource provides information about Shielding and Zeff, electr
 file: /courses/5-112-principles-of-chemical-science-fall-2005/7ac02f686e25faa6debb3db689ac7bd0_lecture9.pdf
 file_size: 13312
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

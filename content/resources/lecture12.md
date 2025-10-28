@@ -5,8 +5,6 @@ description: This resource provides information about ionic bonds, and polar cov
 file: /courses/5-112-principles-of-chemical-science-fall-2005/5f01c1a0a6384b489b9c5d4d15cd2ba1_lecture12.pdf
 file_size: 22926
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

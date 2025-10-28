@@ -5,8 +5,6 @@ description: This resource provides information about wavefuntion in spherical c
 file: /courses/5-112-principles-of-chemical-science-fall-2005/7791fd2f7e5b15bf4d748fef4aed17b2_lecture6.pdf
 file_size: 19431
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
